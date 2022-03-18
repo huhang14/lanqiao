@@ -1,5 +1,6 @@
 n=int(input())
 n=n//1000
+
 hh=n//3600
 hh=hh%24
 
